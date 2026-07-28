@@ -1,4 +1,4 @@
-# @graphrefly/react
+# @graphrefly/nestjs
 
 ## 0.1.0
 
